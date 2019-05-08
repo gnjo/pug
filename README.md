@@ -7,6 +7,9 @@ pug package. autoload version
 //check
 console.log(window.pug)
 ```
+demo: https://codepen.io/gnjo/pen/mYJzKM?editors=1010
+
 api: https://pugjs.org/api/reference.html
 
 original: https://pugjs.org/js/pug.js
+
