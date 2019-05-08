@@ -13,3 +13,14 @@ api: https://pugjs.org/api/reference.html
 
 original: https://pugjs.org/js/pug.js
 
+# other
+```
+ //default
+ var html=pug.render(str,{pretty:true})
+```
+```
+ let caller=(err)=>{...}
+ //debug hint mode
+ pug.render(str,{compileDebug:true},caller)
+ 
+```
